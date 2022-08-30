@@ -11,7 +11,6 @@ const Definition = ({ currentWordDefinition }) => {
                 </article>
             ]
     }, [])
-    console.log(currentWordDefinition.meanings);
 
     return (
         <section>
