@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/definition-finder/static/js/main.5be192af.js",
+    "index.html": "/definition-finder/index.html",
+    "main.5be192af.js.map": "/definition-finder/static/js/main.5be192af.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5be192af.js"
+  ]
+}
